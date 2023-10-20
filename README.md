@@ -7,7 +7,8 @@ Neste projeto foi aplicado as etapas de coleta, obtenção e transformação de 
 
 ![image](https://github.com/karolinesi/processando-e-transformando-dados-com-power-bi/assets/65085217/7419c41e-6aa9-4da3-a9a1-a9dc34018da6)
 
-![image](https://github.com/karolinesi/processando-e-transformando-dados-com-power-bi/assets/65085217/d54dab4d-a4dd-4c69-8b24-954c35dc149e)
+![image](https://github.com/karolinesi/processando-e-transformando-dados-com-power-bi/assets/65085217/241036c7-774d-499d-ab2d-19d1aea062dd)
+
 
 
 
